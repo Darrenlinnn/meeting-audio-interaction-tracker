@@ -1,0 +1,1 @@
+{"model_version":"mlp_1sec_v1","device_id":"Core2Kit","timestamp":1777506480,"confidence":1,"predicted_class":"multiple_speakers","probabilities":{"single_speaker":0,"multiple_speakers":1,"silence":0},"aws_received_time":1777506480450}
